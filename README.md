@@ -1,11 +1,12 @@
-# 🚀 My Streamlit App
+# 🚀 My First Streamlit App
 
 ## 🔗 Live Demo
-https://l5wcvobfex3hernvzq4dk.streamlit.app
+[Click here to use the app](https://l5wcvobfex3hernvzq4dk.streamlit.app)
 
 ## 📌 Features
 - Takes user input
-- Displays output instantly
+- Instant response display
+- Simple interactive UI
 
 ## ⚙️ Tech Stack
 - Python
